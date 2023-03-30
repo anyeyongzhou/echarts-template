@@ -1,0 +1,48 @@
+bar,line,scatter属于直角坐标系图表
+他们有一些常用的配置
+  网格grid   用来控制直角坐标系的布局和大小
+  坐标轴axis
+  区域缩放dataZoom
+
+
+还有一些公共的组件
+  title
+    text
+    textStyle
+    borderWidth
+    borderColor
+    borderRadius
+    left  
+    right  
+    top  
+    buttom
+  tooltip
+    trigger
+    triggerOn
+    formatter
+  toolbox
+    feature
+      saveAsImage
+      dataView
+      restore
+      dataZoom
+      magicType
+  legend
+    data
+  series
+    name
+    type
+    markPoint
+      data
+        type
+        name
+    markLine
+      data
+        type
+        name
+    label
+      show
+      rotate
+      position
+    barWidth
+    data
